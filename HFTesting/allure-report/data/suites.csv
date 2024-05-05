@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Sun May 05 19:12:21 SAMT 2024","Sun May 05 19:12:48 SAMT 2024","26294","","Некоторые UI тесты","","UITestClass","cartPriceTest","Проверка правильности расчёта стоимости товара при увеличении количества",""
+"failed","Sun May 05 19:34:15 SAMT 2024","Sun May 05 19:34:29 SAMT 2024","13646","","Некоторые UI тесты","","UITestClass","productSearchTestFalse","Проверка поиска по артикулу, которого нет",""
+"failed","Sun May 05 19:34:29 SAMT 2024","Sun May 05 19:34:34 SAMT 2024","5555","","Некоторые UI тесты","","UITestClass","fillingCartTest","Проверка добавления товара в корзину",""
+"passed","Sun May 05 19:45:31 SAMT 2024","Sun May 05 19:46:22 SAMT 2024","51427","","Некоторые UI тесты","","UITestClass","productSearchTestTrue","Проверка поиска по артикулу",""
+"passed","Sun May 05 19:12:48 SAMT 2024","Sun May 05 19:12:48 SAMT 2024","596","","Некоторые UI тесты","","UITestClass","authorizationTest","Проверка авторизации",""
